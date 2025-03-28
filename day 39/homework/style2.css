@@ -1,0 +1,13 @@
+.example{
+    -webkit-border-radius: 10px; border-radius: 10px; 
+}
+
+
+.example { -moz-box-shadow: 5px 5px 5px #888; box-shadow: 5px 5px 5px #888; }
+
+
+
+
+.example { -o-transform: rotate(45deg); transform: rotate(45deg); }
+
+/* ეს Prefix-ები და თვისებები არის მოძველებული და გამოიყენება ძველ ბრაუზერებში */

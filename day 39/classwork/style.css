@@ -1,0 +1,59 @@
+#hi {
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+#hi h1{
+    font-size: 2rem;
+}
+
+
+.hello_world ul{
+    padding: 0;
+} 
+
+
+.hello_world ul li{
+    display: inline;
+    margin-right: 20px;
+}
+
+
+.hello_world ul li a{
+    text-decoration: underline;
+    color: white;
+    font-size: 1rem;
+}
+
+
+.hello_world ul li a:hover{
+    color: aqua;
+}
+
+
+.hello1{
+    background-color: #f4f4f4;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+
+.goa1 {
+    color: #333;
+    font-size: 1.5rem;
+}
+
+.hello2{
+    background-color: #888;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+
+.goa2 {
+    color: #555;
+    font-size: 1.5rem;
+}
